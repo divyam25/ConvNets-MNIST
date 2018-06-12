@@ -4,3 +4,4 @@ Will be experimenting with various layer architectures to come up with the best 
 <br/> Best Model as of now -- <br/> <br/>
 2 Conv2D layers + MaxPool + 2 Conv2D layers + Max pool + 2 Dense Layers (with a dropout) <br/>
 Accuracy -- 98.94% <br/> <br/>
+MNIST Dataset Source -- Kaggle  
